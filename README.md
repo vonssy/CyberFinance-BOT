@@ -10,7 +10,7 @@ Register Here : [CyberFinance](https://t.me/CyberFinanceBot/game?startapp=cj1BYW
   - Auto Claim Mining
   - Auto Watch Ads
   - Auto Clear Task
-  - Auto Upgarde Booster? add soon
+  - Auto Upgarde Booster?
   - Multi Account
 
 ## Prasyarat
